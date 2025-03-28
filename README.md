@@ -83,5 +83,5 @@ Open the web app from android/ios browser
 
 **Web Framework:**  Next.js
 
-**AI model:** Yolov11n (TensorFlow.js)
+**AI model:** Yolov11s (TensorFlow.js)
 
