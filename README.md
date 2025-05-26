@@ -56,6 +56,7 @@ const ip = "192.168.0.1" //Add your current IP
 Configure SSL Certificate (For HTTPS & Camera Permission on mobile devices)
 
 ```bash
+mkdir -p ssl
 openssl req -x509 -newkey rsa:2048 -keyout ssl/key.pem -out ssl/cert.pem -days 365 -nodes
 ```
 
